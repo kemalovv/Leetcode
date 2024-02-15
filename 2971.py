@@ -20,6 +20,3 @@ def largest_perimeter(nums):
         return ans
     else:
         return -1
-
-
-print(largest_perimeter([5, 8, 34, 33, 6, 6, 42, 32, 29, 42]))
