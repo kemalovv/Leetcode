@@ -20,4 +20,3 @@ def remove_nth_from_end(head, n):
     left_pointer.next = left_pointer.next.next
 
     return first_node.next
-
